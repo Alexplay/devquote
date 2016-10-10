@@ -1,0 +1,21 @@
+Preparar el entorno:
+
+Crear repositorio publico en github
+Configurar servidor apache
+Crear archivo index.html
+Librerias en css/, js/ y jquery/
+Esqueleto de la pagina con 2 paginas interconectadas
+Navegación
+Formulario:
+	-Sliders
+	-Radios
+	-Checkboxes
+Cambio de contenido dinamico con jquery (Complejidad del sitio)
+Boton de guardar con formulario en popup
+Boton de enviar por email
+
+
+
+Falta:
+Colocar formulario en un listview
+http://demos.jquerymobile.com/1.4.5/listview/index.html?name2=&textarea2=&flip2=off&slider2=0&select-choice-1=express
